@@ -1,5 +1,3 @@
-# ItWorksSomehow
-
 ### 🧪 A Playground for Experiments, Ideas, and Curiosity
 
 ---

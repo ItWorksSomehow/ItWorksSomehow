@@ -26,7 +26,7 @@ From time to time I share things like:
 
 Most of the work here is driven by **curiosity and experimentation**.
 
-Topics are not limited to one field — you might see things related to **math, physics, computer science, astronomy, engineering, or even art**.
+Topics are not limited to one field. You might see things related to **math, physics, computer science, astronomy, engineering, or even art**.
 
 So don't be surprised if one day it's an **astronomy visualization** and the next day it's an **algorithm experiment**.
 

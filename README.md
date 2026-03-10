@@ -1,16 +1,46 @@
-## Hi there 👋
+# ItWorksSomehow
 
-<!--
-**ItWorksSomehow/ItWorksSomehow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧪 A Playground for Experiments, Ideas, and Curiosity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Ownership
+
+This repository is owned and maintained by the Instagram page  
+➡️ **[@dukhi1470](https://instagram.com/dukhi1470)**
+
+If you reached here from Instagram, you are at the correct place.
+
+---
+
+## 🧠 What is this space?
+
+This repository is a **public playground for experiments and ideas**.
+
+From time to time I share things like:
+
+• Code used in some projects  
+• Manim animations and visual experiments  
+• After Effects project files  
+• Small side projects or technical notes  
+
+Most of the work here is driven by **curiosity and experimentation**.
+
+Topics are not limited to one field — you might see things related to **math, physics, computer science, astronomy, engineering, or even art**.
+
+So don't be surprised if one day it's an **astronomy visualization** and the next day it's an **algorithm experiment**.
+
+---
+
+## 📬 Contact
+
+📩 **Instagram DM:** @dukhi1470  
+📧 **Email:** balakpaneerparatha@gmail.com
+
+---
+
+## 🚀 For the Curious
+
+This space is open for anyone interested in **STEM, creativity, and experimentation**.
+
+Explore the repositories, learn something new, and build on top of the ideas if you want.

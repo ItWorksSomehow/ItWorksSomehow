@@ -19,7 +19,7 @@ From time to time I share things like:
 
 • Code used in some projects  
 • Manim animations and visual experiments  
-• After Effects project files  
+• After Effects project files  (I am a noob in AE but you can actually still learn something if you are noober than me.)
 • Small side projects or technical notes  
 
 Most of the work here is driven by **curiosity and experimentation**.
